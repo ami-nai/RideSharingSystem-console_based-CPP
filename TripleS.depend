@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1701149885 source:f:\shahriar iiuc\3rd sem\dsa\final\final project\triples\main.cpp
+	"Header.h"
+	<bits/stdc++.h>
+
+1699337258 f:\shahriar iiuc\3rd sem\dsa\final\final project\triples\users.h
+	<bits/stdc++.h>
+
+1701609894 source:f:\shahriar iiuc\3rd sem\dsa\final\final project\triples\users.cpp
+	"Header.h"
+	<bits/stdc++.h>
+
+1701615929 source:f:\shahriar iiuc\3rd sem\dsa\final\final project\triples\riders.cpp
+	"Header.h"
+	<bits/stdc++.h>
+
+1701185992 f:\shahriar iiuc\3rd sem\dsa\final\final project\triples\header.h
+	<bits/stdc++.h>
+
